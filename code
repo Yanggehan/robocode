@@ -9,7 +9,7 @@ import static robocode.util.Utils.normalRelativeAngleDegrees;
 /**
  * G - a robot by (your name here)
  */
-public class G extends AdvancedRobot
+public class fguan__gyang extends AdvancedRobot
 {
 		private double eDist; //distance from the emeny
 		private double move; //moving distance
