@@ -1,4 +1,4 @@
-package G;
+package fguan__gyang;
 import robocode.*;
 import java.awt.Color;
 import static robocode.util.Utils.normalRelativeAngleDegrees;
