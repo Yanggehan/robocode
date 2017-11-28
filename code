@@ -1,4 +1,4 @@
-package fguan__gyang;
+package fguan_gyang;
 import robocode.*;
 import java.awt.Color;
 import static robocode.util.Utils.normalRelativeAngleDegrees;
@@ -9,7 +9,7 @@ import static robocode.util.Utils.normalRelativeAngleDegrees;
 /**
  * G - a robot by (your name here)
  */
-public class fguan__gyang extends AdvancedRobot
+public class fguan_gyang extends AdvancedRobot
 {
 		private double eDist; //distance from the emeny
 		private double move; //moving distance
